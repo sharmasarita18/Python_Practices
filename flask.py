@@ -1,4 +1,5 @@
 from os import lseek
 
 
-print("hi")lseek
+print("hi")
+print("hello")
